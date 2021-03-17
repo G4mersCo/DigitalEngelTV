@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1, CARACOL TV
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=74_&f=.m3u8
+
+#EXTINF:-1, RCN
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=47_&f=.m3u8
+
+#EXTINF:-1, WINSPORTS
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1843_&f=.m3u8
+
+#EXTINF:-1, WINSPORTS +
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1670_&f=.m3u8
