@@ -1,12 +1,96 @@
 #EXTM3U
+
+#EXTINF:-1, AMC
+http://tecnotv.club/pzz/smtv1.php?c=2002
+
+#EXTINF:-1, CABALLEROS DEL ZODIACO
+http://tecnotv.club/pzz/24.php?c=18&f=.ts
+
 #EXTINF:-1, CARACOL TV
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=74_&f=.m3u8
 
+#EXTINF:-1, CARTOON NETWORK
+http://tecnotv.club/pzz/smtv1.php?c=2264
+
+#EXTINF:-1, CINE CANAL
+http://tecnotv.club/pzz/smtv1.php?c=2016
+
+#EXTINF:-1, CINEMAX
+http://38.18.238.42:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, CUENTOS DE LOS HERMANOS GRIMM
+http://tecnotv.club/pzz/24.php?c=5&f=.ts
+
+#EXTINF:-1, DISCOVERY SCIENCE
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1519_&f=.m3u8
+
+#EXTINF:-1, FOX CHANNEL
+http://tecnotv.club/pzz/smtv1.php?c=2038
+
+#EXTINF:-1, FXM
+http://tecnotv.club/pzz/smtv1.php?c=2086
+
+#EXTINF:-1, GOLDEN
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=166_&f=.m3u8
+
+#EXTINF:-1, GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=169_&f=.m3u8
+
+#EXTINF:-1, GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1704_&f.m3u8
+
+#EXTINF:-1, HBO
+http://tecnotv.club/pzz/smtv1.php?c=2099
+
+#EXTINF:-1, HBO +
+http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1, HBO 2
+http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, HBO SIGNATURE
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=229_&f.m3u8
+
+#EXTINF:-1, HBO Xtreme
+http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1536_&f=.m3u8
+
+#EXTINF:-1, HISTORY
+http://tecnotv.club/pzz/smtv1.php?c=1881
+
+#EXTINF:-1, METAL
+http://tecnotv.club/pzz/smtv1.php?c=3801
+
+#EXTINF:-1, PARAMOUNT CHANNEL
+http://tecnotv.club/pzz/smtv1.php?c=2134
+
+#EXTINF:-1, POKEMON
+http://tecnotv.club/pzz/24.php?c=61&f=.ts
+
 #EXTINF:-1, RCN
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=47_&f=.m3u8
+
+#EXTINF:-1, SONY
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=sony
+
+#EXTINF:-1, SPACE
+http://tecnotv.club/pzz/smtv1.php?c=2147
+
+#EXTINF:-1, STUDIO UNIVERSAL
+http://tecnotv.club/pzz/smtv1.php?c=2169
+
+#EXTINF:-1, TNT
+http://38.18.238.42:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1, TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+
+#EXTINF:-1, WARNER CHANNEL FHD
+http://tecnotv.club/pzz/smtv1.php?c=2181
 
 #EXTINF:-1, WINSPORTS
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1843_&f=.m3u8
 
 #EXTINF:-1, WINSPORTS +
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1670_&f=.m3u8
+
+
