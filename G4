@@ -1,31 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1, AMC
-http://tecnotv.club/pzz/smtv1.php?c=2002
+http://tecnotv.club/zzz/smartv.php?c=174_&f=.m2u8
 
 #EXTINF:-1, CABALLEROS DEL ZODIACO
-http://tecnotv.club/pzz/24.php?c=18&f=.ts
+http://tecnotv.club/zzz/24.php?c=18&f=.ts
 
 #EXTINF:-1, CARACOL TV
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=74_&f=.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
-http://tecnotv.club/pzz/smtv1.php?c=2264
+http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1, CINE CANAL
-http://tecnotv.club/pzz/smtv1.php?c=2016
+http://23.237.29.98:2095/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=gAFOvTkn6KwzdSV00YzUVQ&expires=1616010637
 
 #EXTINF:-1, CINEMAX
-http://38.18.238.42:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://38.18.238.35:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=TtyeJf3HH1nQVT6Ext_Seg&expires=1616011105
 
 #EXTINF:-1, CUENTOS DE LOS HERMANOS GRIMM
-http://tecnotv.club/pzz/24.php?c=5&f=.ts
+http://tecnotv.club/zzz/24.php?c=5&f=.ts
 
-#EXTINF:-1, DISCOVERY SCIENCE
-http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1519_&f=.m3u8
+#EXTINF:-1, DISCOVERY
+http://38.18.238.35:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=9nqnZCwUVQ_UwC_Q2Rd-_Q&expires=1616010657
+
+#EXTINF:-1, DISNEY XD
+http://38.18.238.42:2095/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1, FOX CHANNEL
-http://tecnotv.club/pzz/smtv1.php?c=2038
+http://38.18.238.35:2095/andromeda/FOX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=AnZLXiu5CwZCdqmyDhw_zA&expires=1616010623
+
+#EXTINF:-1, FX
+http://38.18.238.35:2095/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=zvoNpjEJZtWHmLAedQsSSA&expires=1616010625
 
 #EXTINF:-1, FXM
 http://tecnotv.club/pzz/smtv1.php?c=2086
@@ -40,13 +46,13 @@ http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=169_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1704_&f.m3u8
 
 #EXTINF:-1, HBO
-http://tecnotv.club/pzz/smtv1.php?c=2099
+http://38.18.237.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=bYYOSAAMsb6eP-Xkgl4A7w&expires=1616010671
 
 #EXTINF:-1, HBO +
-http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://38.18.238.35:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=-EXg1ATu9kQ-WKtnB3MiSA&expires=1616010673
 
 #EXTINF:-1, HBO 2
-http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://38.18.238.35:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=-EXg1ATu9kQ-WKtnB3MiSA&expires=1616010673
 
 #EXTINF:-1, HBO SIGNATURE
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=229_&f.m3u8
@@ -55,37 +61,42 @@ http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=229_&f.m3u8
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1536_&f=.m3u8
 
 #EXTINF:-1, HISTORY
-http://tecnotv.club/pzz/smtv1.php?c=1881
+http://38.18.238.35:2095/andromeda/HISTORY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=NH_IOPhKWf7tHFr4pdTsLQ&expires=1616010664
+
+#EXTINF:-1, HISTORY 2
+http://38.18.238.35:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=NH_IOPhKWf7tHFr4pdTsLQ&expires=1616010664
 
 #EXTINF:-1, METAL
-http://tecnotv.club/pzz/smtv1.php?c=3801
+
 
 #EXTINF:-1, PARAMOUNT CHANNEL
-http://tecnotv.club/pzz/smtv1.php?c=2134
+http://23.237.29.98:2095/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=wOg28jZ62Lv5_bvPm7Ytfw&expires=1616011184
 
 #EXTINF:-1, POKEMON
-http://tecnotv.club/pzz/24.php?c=61&f=.ts
+http://tecnotv.club/zzz/24.php?c=61&f=.ts
 
 #EXTINF:-1, RCN
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=47_&f=.m3u8
 
 #EXTINF:-1, SONY
-http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=sony
+http://38.18.238.35:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=res9XH1WLJnl2AaI29bZwg&expires=1616010627
 
 #EXTINF:-1, SPACE
-http://tecnotv.club/pzz/smtv1.php?c=2147
+http://38.18.238.35:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1, STUDIO UNIVERSAL
-http://tecnotv.club/pzz/smtv1.php?c=2169
+http://tecnotv.club/zzz/smtv2.php?cat=latinos&ch=studiouniversal
 
 #EXTINF:-1, TNT
-http://38.18.238.42:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://38.18.238.35:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=2qHH1AfrJg-inSvpxnAAMg&expires=1616011118
 
 #EXTINF:-1, TOONCAST
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+
 
 #EXTINF:-1, WARNER CHANNEL FHD
-http://tecnotv.club/pzz/smtv1.php?c=2181
+
+#EXTINF:-1, WARNER TV
+http://38.18.238.35:2095/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=-SEHMLaORKtAHTsMmnynSw&expires=1616011102
 
 #EXTINF:-1, WINSPORTS
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1843_&f=.m3u8
@@ -93,4 +104,5 @@ http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1843_&f=.m3u8
 #EXTINF:-1, WINSPORTS +
 http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1670_&f=.m3u8
 
-
+#EXTINF:-1, XMEN
+http://tecnotv.club/zzz/24.php?c=73&f=.ts
