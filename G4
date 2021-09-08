@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1, AMC
@@ -9,6 +8,12 @@ http://tecnotv.club/06sep/plutotv.php?c=5dcde17bf6591d0009839e02
 
 #EXTINF:-1, CARACOL TV
 http://tecnotv.club/06sep/smartv3.php?c=507&file=playlist.m3u8
+
+#EXTINF:-1, CARACOL 2 
+http://tecnotv.club/06sep/smartv3.php?c=16415&file=playlist.m3u8
+
+#EXTINF:-1, CARACOL 3
+http://tecnotv.club/06sep/smartv3.php?c=16418&file=playlist.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
 http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=3kkctoon&f=.m3u8
@@ -31,13 +36,13 @@ http://tecnotv.club/06sep/smartv3.php?c=768&file=playlist.m3u8
 #EXTINF:-1, FXM
 http://tecnotv.club/06sep/smartv3.php?c=769&file=playlist.m3u8
 
-#EXTINF:-1, GOLDEN +
+#EXTINF:-1, DORADO +
 http://tecnotv.club/06sep/smartv3.php?c=618&file=playlist.m3u8
 
 #EXTINF:-1, HBO
 http://tecnotv.club/06sep/smartv3.php?c=688&file=playlist.m3u8
 
-#EXTINF:-1, HBO FAMILY
+#EXTINF:-1, FAMILIA HBO
 http://tecnotv.club/06sep/smartv3.php?c=632&file=playlist.m3u8
 
 #EXTINF:-1, HISTORY CHANNEL
@@ -61,10 +66,10 @@ http://tecnotv.club/06sep/24.php?c=305
 #EXTINF:-1, SONY
 http://tecnotv.club/06sep/smartv.php?c=sony
 
-#EXTINF:-1, SPACE
+#EXTINF:-1, ESPACIO
 http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=kx_rrt22&f=.m3u8
 
-#EXTINF:-1, SPACE HD
+#EXTINF:-1, ESPACIO HD
 http://tecnotv.club/06sep/smartv3.php?c=706&file=playlist.m3u8
 
 #EXTINF:-1, STAR CHANNEL
@@ -79,7 +84,7 @@ http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=ntn_ll1l&f=.m3u8
 #EXTINF:-1, TNT HD
 http://tecnotv.club/06sep/smartv3.php?c=306&file=playlist.m3u8
 
-#EXTINF:-1, WARNER CHANNEL
+#EXTINF:-1, CANAL WARNER
 http://tecnotv.club/06sep/smartv3.php?c=798&file=playlist.m3u8
 
 #EXTINF:-1, WINSPORTS
