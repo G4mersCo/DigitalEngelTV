@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, CARACOL TV
-http://iptvcanales.gq/canales/tvfree/59/playlist.m3u8
-
-#EXTINF:-1, CARACOL TV
+#EXTINF:-1, CARACOL TV 
 http://iptvcanales.gq/canales/live/267/playlist.m3u8
+
+#EXTINF:-1, CARACOL TV 2
+http://iptvcanales.gq/canales/live/28/playlist.m3u8
+
+#EXTINF:-1, DISNEY XD
+http://iptvcanales.gq/canales/tv/disneyxd_hls/playlist.m3u8
+
+#EXTINF:-1, HISTORY
+http://iptvcanales.gq/canales/cable/gtj8vdvlab11nc0/playlist.m3u8
+
+#EXTINF:-1, RCN
+http://iptvcanales.gq/canales/tvfree/193/playlist.m3u8
+
+#EXTINF:-1, WWE
+http://iptvcanales.gq/canales/tvfree/222/playlist.m3u8
