@@ -7,94 +7,11 @@ http://tecnotv.club/06sep/smartv.php?c=amc
 http://tecnotv.club/06sep/plutotv.php?c=5dcde17bf6591d0009839e02
 
 #EXTINF:-1, CARACOL TV
-http://tecnotv.club/06sep/smartv3.php?c=507&file=playlist.m3u8
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, CARACOL 2 
-http://tecnotv.club/06sep/smartv3.php?c=16415&file=playlist.m3u8
-
-#EXTINF:-1, CARACOL 3
-http://tecnotv.club/06sep/smartv3.php?c=16418&file=playlist.m3u8
-
-#EXTINF:-1, CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=3kkctoon&f=.m3u8
-
-#EXTINF:-1, CINE CANAL
-http://tecnotv.club/06sep/smartv.php?c=cinecanal
-
-#EXTINF:-1, CINEMAX
-http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=cc_m99x&f=.m3u8
-
-#EXTINF:-1, CUENTOS DE LOS HERMANOS GRIMM
-http://tecnotv.club/06sep/24.php?c=340
-
-#EXTINF:-1, DISNEY XD
-http://tecnotv.club/06sep/smartv3.php?c=761&file=playlist.m3u8
-
-#EXTINF:-1, FX
-http://tecnotv.club/06sep/smartv3.php?c=768&file=playlist.m3u8
-
-#EXTINF:-1, FXM
-http://tecnotv.club/06sep/smartv3.php?c=769&file=playlist.m3u8
-
-#EXTINF:-1, DORADO +
-http://tecnotv.club/06sep/smartv3.php?c=618&file=playlist.m3u8
-
-#EXTINF:-1, HBO
-http://tecnotv.club/06sep/smartv3.php?c=688&file=playlist.m3u8
-
-#EXTINF:-1, FAMILIA HBO
-http://tecnotv.club/06sep/smartv3.php?c=632&file=playlist.m3u8
-
-#EXTINF:-1, HISTORY CHANNEL
-http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=vc_bt33&f=.m3u8
-
-#EXTINF:-1, HISTORY CHANNEL 2
-http://tecnotv.club/06sep/smartv.php?c=history
 
 #EXTINF:-1, LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1, PARAMOUNT CHANNEL
-http://tecnotv.club/06sep/smartv.php?c=paramount
-
-#EXTINF:-1, POWER RANGERS
-http://tecnotv.club/06sep/24.php?c=303
-
-#EXTINF:-1, RCN
-http://tecnotv.club/06sep/smartv3.php?c=320&file=playlist.m3u8
-
-#EXTINF:-1, SAILOR MOON
-http://tecnotv.club/06sep/24.php?c=305
-
-#EXTINF:-1, SONY
-http://tecnotv.club/06sep/smartv.php?c=sony
-
-#EXTINF:-1, ESPACE HD
-http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=kx_rrt22&f=.m3u8
-
-#EXTINF:-1, STAR CHANNEL
-http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=vf0rrk9x&f=.m3u8
-
-#EXTINF:-1, ESTUDIO UNIVERSAL
-http://tecnotv.club/06sep/smartv3.php?c=650&file=playlist.m3u8
-
-#EXTINF:-1, TNT
-http://ipeteve.com/php/SR_REGIO_040921/th.php?channel=ntn_ll1l&f=.m3u8
-
-#EXTINF:-1, TNT HD
-http://tecnotv.club/06sep/smartv3.php?c=306&file=playlist.m3u8
-
-#EXTINF:-1, CANAL WARNER
-http://tecnotv.club/06sep/smartv3.php?c=798&file=playlist.m3u8
-
-#EXTINF:-1, WINSPORTS
-http://tecnotv.club/06sep/sport.php?c=winsports
-
-#EXTINF:-1, WINSPORTS +
-http://tecnotv.club/06sep/smartv3.php?c=22&file=playlist.m3u8
-
-#EXTINF:-1, WWE
-http://tecnotv.club/06sep/sport.php?c=wwe
-
-#EXTINF:-1, X-MEN
-http://tecnotv.club/06sep/24.php?c=331
+#EXTINF:-1, CANAL CAPITAL
+https://mdstrm.com/live-stream-pl
