@@ -1,6 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1, CARACOL TV
 http://iptvcanales.gq/canales/tvfree/59/playlist.m3u8
 
+#EXTINF:-1, CARACOL TV
+http://iptvcanales.gq/canales/live/267/playlist.m3u8
