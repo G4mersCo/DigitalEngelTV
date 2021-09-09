@@ -15,5 +15,8 @@ http://iptvcanales.gq/canales/cable/gtj8vdvlab11nc0/playlist.m3u8
 #EXTINF:-1, RCN
 http://iptvcanales.gq/canales/tvfree/193/playlist.m3u8
 
+#EXTINF:-1, TNT
+http://iptvcanales.gq/canales/cable/12dyavowb6wnxh3/playlist.m3u8
+
 #EXTINF:-1, WWE
 http://iptvcanales.gq/canales/tvfree/222/playlist.m3u8
