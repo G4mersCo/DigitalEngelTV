@@ -1,17 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, AMC
-http://tecnotv.club/06sep/smartv.php?c=amc
-
-#EXTINF:-1, ANIME
-http://tecnotv.club/06sep/plutotv.php?c=5dcde17bf6591d0009839e02
 
 #EXTINF:-1, CARACOL TV
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+http://iptvcanales.gq/canales/tvfree/59/playlist.m3u8
 
-
-#EXTINF:-1, LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1, CANAL CAPITAL
-https://mdstrm.com/live-stream-pl
