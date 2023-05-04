@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, CARACOL TV 
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 group-title="col",Canal UNO
+#EXTINF:-1, CANAL UNO
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 group-title="col",RCN+
+#EXTINF:-1, RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
