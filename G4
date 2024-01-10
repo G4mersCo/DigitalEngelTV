@@ -1,10 +1,97 @@
 #EXTM3U
 #EXTINF:-1, CARACOL TV 
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-id="Caracol TV (720p)",Caracol TV (720p)
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-id="Locomotion TV",Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF:-1, CANAL UNO
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1, RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Citytv Bogotá",Citytv Bogotá
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+#EXTINF:-1 tvg-id="Canal 1",Canal 1
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+#EXTINF:-1 tvg-id="History (MX)",History (MX)
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79772.ts
+
+
+#EXTINF:-1 tvg-id="Cartoon Mexico",Cartoon Mexico
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network East",Cartoon Network East
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CartoonNetworkEast.us.m3u8
+
+#EXTINF:-1 tvg-id="V Classic TV  ",V Classic TV 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" AMC ", AMC
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79891.ts
+
+#EXTINF:-1 tvg-id=" Axn ", Axn
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79884.ts
+
+#EXTINF:-1 tvg-id="Cinecanal (co)",Cinecanal (co)
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79897.ts
+
+#EXTINF:-1 tvg-id="Cinecanal (MX)",Cinecanal (MX)
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79898.ts
+
+#EXTINF:-1 tvg-id="Cinemax  ",Cinemax 
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79904.ts
+
+#EXTINF:-1 tvg-id="Cinemax MX  ",Cinemax MX
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79905.ts
+
+#EXTINF:-1 tvg-id="FX",FX
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79957.ts
+
+#EXTINF:-1 tvg-id="HBO",HBO
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79971.ts
+
+#EXTINF:-1 tvg-id=" HBO 2", HBO 2
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79972.ts
+
+#EXTINF:-1 tvg-id="HBO Plus Full HD",HBO Plus Full HD
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79985.ts
+
+EXTINF:-1 tvg-id="HBO Xtreme",HBO Xtreme
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79995.ts
+
+#EXTINF:-1 tvg-id="Sony Full HD (MX)",ony Full HD (MX)
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80019.ts
+
+#EXTINF:-1 tvg-id="Cine Sony ",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space (MX)",Space (MX)
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80020.ts
+
+#EXTINF:-1 tvg-id="TNT (MX)",TNT (MX)
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80056.ts
+
+#EXTINF:-1 tvg-id=" Universal Channel ", Universal Channel 
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80067.ts
+
+#EXTINF:-1 tvg-id="Warner Channel FHD (CO)",Warner Channel FHD (CO)
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80071.ts
+
+#EXTINF:-1 tvg-id="Infantil: Cartoon Network MX",Infantil: Cartoon Network MX
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80079.ts
+
+
+#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80106.ts
+
+#EXTINF:-1 tvg-id=" Caracol Int HD", Caracol Int HD
+http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80400.ts
 
 #EXTINF:-1 tvg-id="AE Mundo",AE Mundo
 http://181.236.192.254:8000/play/a01p/index.m3u8
@@ -197,4 +284,4 @@ http://181.236.192.254:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Zona Latina",Zona Latina
 http://181.236.192.254:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="Zoom",Zoom
-http://181.236.192.254:8000/play/a00z/index.m3u8
+http://181.236.192.254:8000/play/a00z/index.m3u8 
