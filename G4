@@ -137,6 +137,45 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony 2",Sony2
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79039
-----
-#EXTINF:-1 tvg-id="AE Mundo",AE Mundo
-http://181.236.192.254:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner",warner
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79119
+
+#EXTINF:-1 tvg-id="TNT",Tnt
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79071
+
+#EXTINF:-1 tvg-id="TNT",TNT
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79070
+
+#EXTINF:-1 tvg-id="Cine canal",Cine canal
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78966
+
+#EXTINF:-1 tvg-id="Cinemax",Cinemax
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78968
+
+#EXTINF:-1 tvg-id="HBO",HBO
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79006
+
+#EXTINF:-1 tvg-id="HBO Family",HBO Family
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79007
+
+#EXTINF:-1 tvg-id="HBO Extreme",HBO Extreme
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79011
+
+#EXTINF:-1 tvg-id="HBO +",HBO +
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79012
+
+#EXTINF:-1 tvg-id="Space +",Space
+http://premium-ks.vip:2082/PremiumALBSTREAM
+
+#EXTINF:-1 tvg-id="Disney XD",Disney XD
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78988
+
+#EXTINF:-1 tvg-id="FX",FX
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79000
+
+#EXTINF:-1 tvg-id="Universal Studio",Universal Studio
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79043
+
+#EXTINF:-1 tvg-id="True TV",True TV
+http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79075
