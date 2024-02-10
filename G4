@@ -19,93 +19,20 @@ https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 #EXTINF:-1 tvg-id="Canal 1",Canal 1
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 
-#EXTINF:-1 tvg-id="History (MX)",History (MX)
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79772.ts
-
-
-#EXTINF:-1 tvg-id="Cartoon Mexico",Cartoon Mexico
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network East",Cartoon Network East
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CartoonNetworkEast.us.m3u8
-
 #EXTINF:-1 tvg-id="V Classic TV  ",V Classic TV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" AMC ", AMC
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79891.ts
-
-#EXTINF:-1 tvg-id=" Axn ", Axn
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79884.ts
-
-#EXTINF:-1 tvg-id="Cinecanal (co)",Cinecanal (co)
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79897.ts
-
-#EXTINF:-1 tvg-id="Cinecanal (MX)",Cinecanal (MX)
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79898.ts
-
-#EXTINF:-1 tvg-id="Cinemax  ",Cinemax 
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79904.ts
-
-#EXTINF:-1 tvg-id="Cinemax MX  ",Cinemax MX
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79905.ts
-
-#EXTINF:-1 tvg-id="FX",FX
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79957.ts
-
-#EXTINF:-1 tvg-id="HBO",HBO
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79971.ts
-
-#EXTINF:-1 tvg-id="HBO HD",HBO HD
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79982.ts
-
-#EXTINF:-1 tvg-id=" HBO 2", HBO 2
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79972.ts
-
-#EXTINF:-1 tvg-id="HBO Plus Full HD",HBO Plus Full HD
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79985.ts
-
-#EXTINF:-1 tvg-id="HBO Xtreme",HBO Xtreme
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/79995.ts
-
-#EXTINF:-1 tvg-id="Sony Full HD (MX)",Sony Full HD (MX)
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80019.ts
 
 #EXTINF:-1 tvg-id="Cine Sony ",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Space (MX)",Space (MX)
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80020.ts
-
-#EXTINF:-1 tvg-id="TNT (MX)",TNT (MX)
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80056.ts
-
-#EXTINF:-1 tvg-id=" Universal Channel ", Universal Channel 
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80067.ts
-
-#EXTINF:-1 tvg-id="Warner Channel FHD (CO)",Warner Channel FHD (CO)
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80071.ts
-
-#EXTINF:-1 tvg-id="Infantil: Cartoon Network MX",Infantil: Cartoon Network MX
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80079.ts
-
-
-#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80106.ts
-
-#EXTINF:-1 tvg-id=" Caracol Int HD", Caracol Int HD
-http://livetimesx.com:8080/live/nitro_restream/UEHvkkxYUd7B/80400.ts
-
 #EXTINF:-1 tvg-id="Anime accion",Anime accion
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF:-1 tvg-id="Naruto",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="YU GI OH !",YU GI OH !
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%25%207BTARGETOPT%257D&ID%20del%20dispositivo%20=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF:-1 tvg-id="TV Pelea",TV pelea
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
