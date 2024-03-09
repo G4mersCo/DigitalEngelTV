@@ -71,17 +71,26 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 #EXTINF:-1 tvg-id="Warner",warner
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79119
 
+#EXTINF:-1 tvg-id="Warner2",warner2
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNT",Tnt
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79071
 
 #EXTINF:-1 tvg-id="TNT",TNT
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79070
 
+#EXTINF:-1 tvg-id="TNT 3",TNT 3
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cine canal",Cine canal
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78966
 
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78968
+
+http://170.254.18.106/CINEMAX/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO",HBO
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79006
@@ -109,35 +118,3 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 
 #EXTINF:-1 tvg-id="True TV",True TV
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79075
-
-#EXTINF:-1, "AMC",AMC
-http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="space",space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Tnt 3",Tnt 3
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="FX2",FX2
-
-http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HB02",HB02
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-
-#EXTINF:-1 tvg-id="S0ny",S0ny
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="S0ny Movies",S0ny Movies
-http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AXN",AXN
-http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5TAR",5TAR
-http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-
