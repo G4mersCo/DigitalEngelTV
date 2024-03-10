@@ -89,8 +89,11 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78968
 
+#EXTINF:-1 tvg-id="Cinemax 2",Cinemax 2
 http://170.254.18.106/CINEMAX/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO A",HBO A
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO",HBO
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79006
@@ -103,6 +106,9 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 
 #EXTINF:-1 tvg-id="HBO +",HBO +
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79012
+
+#EXTINF:-1 tvg-id="HBO +2",HBO +2
+http://170.254.18.106/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="Space +",Space
 http://premium-ks.vip:2082/PremiumALBSTREAM
