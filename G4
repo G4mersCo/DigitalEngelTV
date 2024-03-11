@@ -101,6 +101,9 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 #EXTINF:-1 tvg-id="HBO Family",HBO Family
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79007
 
+#EXTINF:-1 tvg-id="HBO Family 2",HBO Family 2
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Extreme",HBO Extreme
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79011
 
