@@ -159,7 +159,46 @@ http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1 tvg-id="5TAR",5TAR
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
-Peliculas 
+#EXTINF:-1 tvg-id="Peliculas",Peliculas 
 
 #EXTINF:-1 tvg-id="Alicia en el pais de las maravillas",Alicia en el pais de las maravillas
 http://mohdtv.com:8880/movie/voay4085/d1z3756d/34117.mp4
+
+#EXTINF:-1 tvg-id="Alicia atravez del espejo",Alicia atravez del espejo
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/34116.mp4
+
+#EXTINF:-1 tvg-id="Dia de la independencia",Dia de la independencia
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/34539.mkv
+
+#EXTINF:-1 tvg-id="Dia de la independencia Contra ataque",Dia de la independencia Contra ataque
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/34540.mp4
+
+#EXTINF:-1 tvg-id="Dracula",Dracula
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/34606.mkv
+
+#EXTINF:-1 tvg-id="El Hobbit un viaje inesperado",El Hobbit un viaje inesperado
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/34772.mp4
+
+#EXTINF:-1 tvg-id="El Hobbit la batalla de los 5 ejercitos",El Hobbit la batalla de los 5 ejercitos
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/34771.mp4
+
+#EXTINF:-1 tvg-id="El Hobbit La desolasion de smaug",El Hobbit La desolasion de smaug
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/34776.mp4
+
+#EXTINF:-1 tvg-id="Escuadron suicida",Escuadron suicida
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/35025.mkv
+
+#EXTINF:-1 tvg-id="Escuadron suicida 4k",Escuadron suicida 4k
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/35024.mkv
+
+#EXTINF:-1 tvg-id="Mad max furia en la carretera",Mad max furia en la carretera
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/35995.mkv
+
+#EXTINF:-1 tvg-id="Regreso al futuro 1",Regreso al futuro 1
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/36581.mp4
+
+#EXTINF:-1 tvg-id="Regreso al futuro 2",Regreso al futuro 2
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/36579.mp4
+
+#EXTINF:-1 tvg-id="Regreso al futuro 3",Regreso al futuro 3
+http://mohdtv.com:8880/movie/voay4085/d1z3756d/36580.mp4
