@@ -135,6 +135,8 @@ http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1 tvg-id="space",space
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
 
+#EXTINF:-1 tvg-id="space2",space2
+http://mohdtv.com:8880/voay4085/d1z3756d/58003
 
 #EXTINF:-1 tvg-id="Tnt 3",Tnt 3
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
