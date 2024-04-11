@@ -8,6 +8,30 @@ http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1, CARACOL TV 3
 http://mohdtv.com:8880/ALLChannels48062c020013/50254498/51315
 
+#EXTINF:-1, CARACOL TV 4
+http://283909892488813322.ofdt0409.xyz:80/play/fe825100/rsk5mVdMCnAU/813322.ts
+
+#EXTINF:-1, CARACOL TV 5
+http://192017285141743915.ofdt0409.xyz:80/play/ja1031255/3373qAArEN/743915.ts
+
+#EXTINF:-1, CARACOL TV 6
+http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCarlcs8IMeC6t8Tfc78Id3
+
+#EXTINF:-1, CARACOL TV 7
+http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBAaAUfxXEUq-Q886sDpBysk
+
+#EXTINF:-1, CARACOL TV 8
+http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBALrSYKd17EIpRpn3H4GS3Z
+
+#EXTINF:-1, CARACOL TV2 9
+http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBAb0OSDtgv4Wo3kn9fZhS_v
+
+#EXTINF:-1, CARACOL TV2 10
+http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBD0Vg-4_3kAp5fd7xz3vdg-
+
+#EXTINF:-1, CARACOL HQ 10
+http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCQWTBQxwFLy3234zPxOGbn
+
 #EXTINF:-1 tvg-id="Locomotion TV",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
