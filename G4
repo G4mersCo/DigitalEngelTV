@@ -32,6 +32,9 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBD0Vg-4_3
 #EXTINF:-1, CARACOL HQ 10
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCQWTBQxwFLy3234zPxOGbn
 
+#EXTINF:-1, CARACOL 11
+http://279071586221743915.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/743915.ts
+
 #EXTINF:-1 tvg-id="Locomotion TV",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -83,6 +86,10 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinerama",Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="Golden SD",Golden SD
+http://279071586221818761.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/818761.ts
+
 #EXTINF:-1 tvg-id="Golden Plus",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
@@ -90,100 +97,70 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony 2",Sony2
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79039
+http://279071586221712802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/712802.ts
 
-#EXTINF:-1 tvg-id="Warner",warner
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79119
+#EXTINF:-1 tvg-id="Axn",Axn
+http://279071586221812456.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/812456.ts
 
-#EXTINF:-1 tvg-id="Warner2",warner2
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1 tvg-id="StarZ",StarZ
+http://279071586221817812.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817812.ts
 
-#EXTINF:-1 tvg-id="TNT",Tnt
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79071
-
-#EXTINF:-1 tvg-id="TNT",TNT
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79070
-
-#EXTINF:-1 tvg-id="TNT 3",TNT 3
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 tvg-id="Star",Star
+http://279071586221818761.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/818761.ts
 
 #EXTINF:-1 tvg-id="Cine canal",Cine canal
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78966
+http://279071586221817802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817802.ts
 
-#EXTINF:-1 tvg-id="Cinemax",Cinemax
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78968
-
-#EXTINF:-1 tvg-id="Cinemax 2",Cinemax 2
+#EXTINF:-1 tvg-id="Cinemax 2",Cinemax 2  ok
 http://170.254.18.106/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO A",HBO A
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax hd",Cinemax hd
+http://279071586221696989.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/696989.ts
 
 #EXTINF:-1 tvg-id="HBO",HBO
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79006
-
-#EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79007
+http://279071586221657200.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/657200.ts
 
 #EXTINF:-1 tvg-id="HBO Family 2",HBO Family 2
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Extreme",HBO Extreme
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79011
+http://279071586221657199.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/657199.ts
 
 #EXTINF:-1 tvg-id="HBO +",HBO +
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79012
-
-#EXTINF:-1 tvg-id="HBO +2",HBO +2
-http://170.254.18.106/HBO_PLUS/index.m3u8
+http://279071586221669693.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/669693.ts
 
 #EXTINF:-1 tvg-id="Space +",Space
-http://premium-ks.vip:2082/PremiumALBSTREAM
-
-#EXTINF:-1 tvg-id="Disney XD",Disney XD
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/78988
-
-#EXTINF:-1 tvg-id="FX",FX
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79000
+http://279071586221817811.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817811.ts
 
 #EXTINF:-1 tvg-id="Universal Studio",Universal Studio
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79043
+http://279071586221712803.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/712803.ts
 
 #EXTINF:-1 tvg-id="True TV",True TV
-http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/79075
+http://279071586221777371.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/777371.ts
 
 #EXTINF:-1, "AMC",AMC
-http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-
+http://279071586221645655.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/645655.ts
 
 #EXTINF:-1 tvg-id="space",space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+http://279071586221812179.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/812179.ts
 
 #EXTINF:-1 tvg-id="space2",space2
 http://mohdtv.com:8880/voay4085/d1z3756d/58003
 
-#EXTINF:-1 tvg-id="Tnt 3",Tnt 3
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-
+#EXTINF:-1 tvg-id="FX",FX
+http://279071586221810699.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810699.ts
 
 #EXTINF:-1 tvg-id="FX2",FX2
-
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HB02",HB02
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
 #EXTINF:-1 tvg-id="S0ny",S0ny
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="S0ny Movies",S0ny Movies
-http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 tvg-id="Warner hd",Warnes hd
+http://279071586221820218.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/820218.ts
 
-#EXTINF:-1 tvg-id="AXN",AXN
-http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema31",Cinema31
+http://279071586221810692.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810692.ts
 
-#EXTINF:-1 tvg-id="5TAR",5TAR
-http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema33",Cinema33
+http://279071586221810693.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810693.ts
 
 #EXTINF:-1 tvg-id="5TAR2",5TAR2
 http://mohdtv.com:8880/voay4085/d1z3756d/58002
@@ -191,7 +168,13 @@ http://mohdtv.com:8880/voay4085/d1z3756d/58002
 #EXTINF:-1 tvg-id="5TAR3",5TAR3
 http://mohdtv.com:8880/voay4085/d1z3756d/49681
 
-#EXTINF:-0 tvg-id="Peliculas"
+#EXTINF:-1 tvg-id="Win Sport +",Win Sport+
+http://279071586221828605.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/828605.ts
+
+#EXTINF:-1 tvg-id="Win Sport",Win Sport
+http://279071586221828606.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/828606.ts
+
+"Peliculas"
 
 #EXTINF:-1 tvg-id="Alicia en el pais de las maravillas",Alicia en el pais de las maravillas
 http://mohdtv.com:8880/movie/voay4085/d1z3756d/34117.mp4
@@ -243,6 +226,3 @@ http://mohdtv.com:8880/movie/ALLChannels48062c020013/50254498/35469.mp4
 
 #EXTINF:-1 tvg-id="Jurasic park 2",Jurasic park 2
 http://mohdtv.com:8880/movie/ALLChannels48062c020013/50254498/35470.mp4
-
-#EXTINF:-1 tvg-id="Jurasic park 3",Jurasic park 3
-http://mohdtv.com:8880/movie/ALLChannels48062c020013/50254498/35471.mp4
