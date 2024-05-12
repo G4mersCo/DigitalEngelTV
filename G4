@@ -43,6 +43,20 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1, RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="A&E",A&E
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+#EXTINF:-1 tvg-id="AMC",AMC
+http://614622160381837769.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837769.ts
+
+#EXTINF:-1 tvg-id="AZTECA 7",AZTECA 7
+http://614622160381837772.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837772.ts
+
+#EXTINF:-1 tvg-id="CINE CANAL HD",CINE CANAL HD
+http://614622160381837783.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837783.ts
+
+
+
 #EXTINF:-1 tvg-id="Citytv Bogotá",Citytv Bogotá
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 
@@ -86,6 +100,17 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinerama",Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CINEMA DINAMITA ",CINEMA DINAMITA 
+http://614622160381837790.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837790.ts
+
+#EXTINF:-1 tvg-id="F X",F X
+http://614622160381837815.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837815.ts
+
+#EXTINF:-1 tvg-id="GOLDEN PREMIER",GOLDEN PREMIER
+http://614622160381837817.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837817.ts
+
+#EXTINF:-1 tvg-id="GOLDEN ",GOLDEN 
+http://614622160381837818.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837818.ts
 
 #EXTINF:-1 tvg-id="Golden SD",Golden SD
 http://279071586221818761.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/818761.ts
@@ -96,8 +121,35 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden premier",Golden premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBO PLUS FHD",HBO PLUS FHD
+http://614622160381837823.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837823.ts
+
+#EXTINF:-1 tvg-id="HBO WEST FHD",HBO WEST FHD
+http://614622160381837825.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837825.ts
+
+#EXTINF:-1 tvg-id="HBO SD",HBO SD
+http://614622160381837826.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837826.ts
+
+#EXTINF:-1 tvg-id="Space",Space
+http://614622160381837859.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837859.ts
+
+#EXTINF:-1 tvg-id=" STAR SD", STAR SD
+http://614622160381837865.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837865.ts
+
+#EXTINF:-1 tvg-id="STARZ CINEMA WEST FH",STARZ CINEMA WEST FH
+http://614622160381837866.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837866.ts
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL FHD",STUDIO UNIVERSAL FHD
+http://614622160381837874.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837874.ts
+
+#EXTINF:-1 tvg-id="TNT SD", TNT SD
+http://614622160381837885.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837885.ts
+
 #EXTINF:-1 tvg-id="Sony 2",Sony2
 http://279071586221712802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/712802.ts
+
+#EXTINF:-1 tvg-id="Sony 2",TNT SD
+http://614622160381837897.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837897.ts
 
 #EXTINF:-1 tvg-id="Axn",Axn
 http://279071586221812456.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/812456.ts
@@ -154,7 +206,13 @@ http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Warner hd",Warnes hd
-http://279071586221820218.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/820218.ts
+http://639528834517837897.ofx508.xyz:80/play/mi86476/Xa5RyW7uKKx/837897.ts
+
+#EXTINF:-1 tvg-id="Cinema28",Cinema28
+http://614622160381837784.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837784.ts
+
+#EXTINF:-1 tvg-id="Cinema30",Cinema30
+http://614622160381837785.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837785.ts
 
 #EXTINF:-1 tvg-id="Cinema31",Cinema31
 http://279071586221810692.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810692.ts
