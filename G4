@@ -55,6 +55,11 @@ http://614622160381837772.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837772.ts
 #EXTINF:-1 tvg-id="CINE CANAL HD",CINE CANAL HD
 http://614622160381837783.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837783.ts
 
+#EXTINF:-1 tvg-id="CINE CANAL ",CINE CANAL 
+http://30496660581843345.ofsd5513.xyz:80/play/RFESYNPCCC/HyngPenba7@/843345.ts
+
+#EXTINF:-1 tvg-id="CINEMAX",CINEMAX
+http://30496660581843355.ofsd5513.xyz:80/play/RFESYNPCCC/HyngPenba7@/843355.ts
 
 
 #EXTINF:-1 tvg-id="Citytv Bogotá",Citytv Bogotá
@@ -205,11 +210,39 @@ http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-id="S0ny",S0ny
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Warner hd",Warnes hd
-http://639528834517837897.ofx508.xyz:80/play/mi86476/Xa5RyW7uKKx/837897.ts
+#EXTINF:-1 tvg-id="S0ny2",S0ny2
+http://quinot.top:8080/81685260548087/01685260548/18501
+
+#EXTINF:-1 tvg-id="Warner",Warner
+http://quinot.top:8080/81685260548087/01685260548/18494
+
+#EXTINF:-1 tvg-id="MEX A&E",MEX A&E
+http://quinot.top:8080/81685260548087/01685260548/52472
 
 #EXTINF:-1 tvg-id="Cinema28",Cinema28
 http://614622160381837784.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837784.ts
+
+#EXTINF:-1 tvg-id="MEX: CINEMAX",MEX: CINEMAX
+http://quinot.top:8080/81685260548087/01685260548/52503
+
+#EXTINF:-1 tvg-id="MEX: FX",MEX FX
+http://quinot.top:8080/81685260548087/01685260548/52534
+
+#EXTINF:-1 tvg-id="MEX SONY",MEX SONY
+http://quinot.top:8080/81685260548087/01685260548/52569
+
+#EXTINF:-1 tvg-id="MEX SPACE",MEX SPACE
+http://quinot.top:8080/81685260548087/01685260548/52570
+
+
+#EXTINF:-1 tvg-id="MEX UNIVERSAL",MEX UNIVERSAL
+http://quinot.top:8080/81685260548087/01685260548/52572
+
+#EXTINF:-1 tvg-id="MEX WARNER",MEX WARNER
+http://quinot.top:8080/81685260548087/01685260548/52598
+
+#EXTINF:-1 tvg-id="Win Sport+",Win Sport+
+http://quinot.top:8080/81685260548087/01685260548/52607
 
 #EXTINF:-1 tvg-id="Cinema30",Cinema30
 http://614622160381837785.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837785.ts
