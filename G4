@@ -43,25 +43,6 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1, RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A&E",A&E
-https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
-
-#EXTINF:-1 tvg-id="AMC",AMC
-http://614622160381837769.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837769.ts
-
-#EXTINF:-1 tvg-id="AZTECA 7",AZTECA 7
-http://614622160381837772.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837772.ts
-
-#EXTINF:-1 tvg-id="CINE CANAL HD",CINE CANAL HD
-http://614622160381837783.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837783.ts
-
-#EXTINF:-1 tvg-id="CINE CANAL ",CINE CANAL 
-http://30496660581843345.ofsd5513.xyz:80/play/RFESYNPCCC/HyngPenba7@/843345.ts
-
-#EXTINF:-1 tvg-id="CINEMAX",CINEMAX
-http://30496660581843355.ofsd5513.xyz:80/play/RFESYNPCCC/HyngPenba7@/843355.ts
-
-
 #EXTINF:-1 tvg-id="Citytv Bogotá",Citytv Bogotá
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 
@@ -70,9 +51,6 @@ https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 
 #EXTINF:-1 tvg-id="V Classic TV  ",V Classic TV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cine Sony ",Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Anime accion",Anime accion
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -96,62 +74,57 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 #EXTINF:-1 tvg-id="Anime pluto",Anime pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%20%7BTARGETOPT%7D&ID%20del%20dispositivo%20=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="ToonTubers",ToonTubers
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="Cine Sony",Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cinerama",Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CINEMA DINAMITA ",CINEMA DINAMITA 
-http://614622160381837790.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837790.ts
+#EXTINF:-1 tvg-id="CINE HD││SONY CINE",CINE HD││SONY CINE
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/101
 
-#EXTINF:-1 tvg-id="F X",F X
-http://614622160381837815.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837815.ts
+#EXTINF:-1 tvg-id="AMC",AMC
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/103
 
-#EXTINF:-1 tvg-id="GOLDEN PREMIER",GOLDEN PREMIER
-http://614622160381837817.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837817.ts
+#EXTINF:-1 tvg-id="AXN",AXN
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/104
 
-#EXTINF:-1 tvg-id="GOLDEN ",GOLDEN 
-http://614622160381837818.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837818.ts
+#EXTINF:-1 tvg-id="CINECANAL (N)",CINECANAL (N)
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/105
 
-#EXTINF:-1 tvg-id="Golden SD",Golden SD
-http://279071586221818761.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/818761.ts
+#EXTINF:-1 tvg-id=" CINEMAX (N) ", CINEMAX (N)
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/110
 
-#EXTINF:-1 tvg-id="Golden Plus",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY",SONY
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/124
 
-#EXTINF:-1 tvg-id="Golden premier",Golden premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FX",FX
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/337
 
-#EXTINF:-1 tvg-id="HBO PLUS FHD",HBO PLUS FHD
-http://614622160381837823.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837823.ts
+#EXTINF:-1 tvg-id="STAR CHANNEL",STAR CHANNEL
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/338
 
-#EXTINF:-1 tvg-id="HBO WEST FHD",HBO WEST FHD
-http://614622160381837825.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837825.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA",UNIVERSAL CINEMA
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/340
 
-#EXTINF:-1 tvg-id="HBO SD",HBO SD
-http://614622160381837826.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837826.ts
+#EXTINF:-1 tvg-id="HBO",HBO
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/345
 
 #EXTINF:-1 tvg-id="Space",Space
-http://614622160381837859.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837859.ts
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/353
 
-#EXTINF:-1 tvg-id=" STAR SD", STAR SD
-http://614622160381837865.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837865.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL",UNIVERSAL CHANNEL
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/359
 
-#EXTINF:-1 tvg-id="STARZ CINEMA WEST FH",STARZ CINEMA WEST FH
-http://614622160381837866.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837866.ts
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL ",STUDIO UNIVERSAL 
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/360
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL FHD",STUDIO UNIVERSAL FHD
-http://614622160381837874.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837874.ts
+#EXTINF:-1 tvg-id="WARNER (N",WARNER (N
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/361
 
-#EXTINF:-1 tvg-id="TNT SD", TNT SD
-http://614622160381837885.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837885.ts
+#EXTINF:-1 tvg-id="ZOMBIES",ZOMBIES
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/438
 
-#EXTINF:-1 tvg-id="Sony 2",Sony2
-http://279071586221712802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/712802.ts
+#EXTINF:-1 tvg-id="CINEMA 2",CINEMA 2
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/440
+
 
 #EXTINF:-1 tvg-id="Sony 2",TNT SD
 http://614622160381837897.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837897.ts
@@ -171,143 +144,40 @@ http://279071586221817802.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817802.ts
 #EXTINF:-1 tvg-id="Cinemax 2",Cinemax 2  ok
 http://170.254.18.106/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax hd",Cinemax hd
-http://279071586221696989.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/696989.ts
+#EXTINF:-1 tvg-id="CINEMA 3",CINEMA 3
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/441
 
-#EXTINF:-1 tvg-id="HBO",HBO
-http://279071586221657200.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/657200.ts
+#EXTINF:-1 tvg-id="CINEMA 5 MV",CINEMA 5 MV
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/443
 
-#EXTINF:-1 tvg-id="HBO Family 2",HBO Family 2
-http://279071586221657199.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/657199.ts
-
-#EXTINF:-1 tvg-id="HBO +",HBO +
-http://279071586221669693.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/669693.ts
-
-#EXTINF:-1 tvg-id="Space +",Space
-http://279071586221817811.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/817811.ts
-
-#EXTINF:-1 tvg-id="Universal Studio",Universal Studio
-http://279071586221712803.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/712803.ts
-
-#EXTINF:-1 tvg-id="True TV",True TV
-http://279071586221777371.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/777371.ts
-
-#EXTINF:-1, "AMC",AMC
-http://279071586221645655.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/645655.ts
-
-#EXTINF:-1 tvg-id="space",space
-http://279071586221812179.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/812179.ts
-
-#EXTINF:-1 tvg-id="space2",space2
-http://mohdtv.com:8880/voay4085/d1z3756d/58003
-
-#EXTINF:-1 tvg-id="FX",FX
-http://279071586221810699.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810699.ts
-
-#EXTINF:-1 tvg-id="FX2",FX2
-http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-
-#EXTINF:-1 tvg-id="S0ny",S0ny
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="S0ny2",S0ny2
-http://quinot.top:8080/81685260548087/01685260548/18501
-
-#EXTINF:-1 tvg-id="Warner",Warner
-http://quinot.top:8080/81685260548087/01685260548/18494
-
-#EXTINF:-1 tvg-id="MEX A&E",MEX A&E
-http://quinot.top:8080/81685260548087/01685260548/52472
-
-#EXTINF:-1 tvg-id="Cinema28",Cinema28
-http://614622160381837784.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837784.ts
-
-#EXTINF:-1 tvg-id="MEX: CINEMAX",MEX: CINEMAX
-http://quinot.top:8080/81685260548087/01685260548/52503
-
-#EXTINF:-1 tvg-id="MEX: FX",MEX FX
-http://quinot.top:8080/81685260548087/01685260548/52534
-
-#EXTINF:-1 tvg-id="MEX SONY",MEX SONY
-http://quinot.top:8080/81685260548087/01685260548/52569
-
-#EXTINF:-1 tvg-id="MEX SPACE",MEX SPACE
-http://quinot.top:8080/81685260548087/01685260548/52570
+#EXTINF:-1 tvg-id="CINEMA 6",CINEMA 6
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/444
 
 
-#EXTINF:-1 tvg-id="MEX UNIVERSAL",MEX UNIVERSAL
-http://quinot.top:8080/81685260548087/01685260548/52572
+24/7
 
-#EXTINF:-1 tvg-id="MEX WARNER",MEX WARNER
-http://quinot.top:8080/81685260548087/01685260548/52598
 
-#EXTINF:-1 tvg-id="Win Sport+",Win Sport+
-http://quinot.top:8080/81685260548087/01685260548/52607
+#EXTINF:-1 tvg-id="CABALLERO DEL ZODIACO",CABALLERO DEL ZODIACO
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/1447
 
-#EXTINF:-1 tvg-id="Cinema30",Cinema30
-http://614622160381837785.ofx508.xyz:80/play/RFESYNPCCC/HyngPenba7@/837785.ts
+#EXTINF:-1 tvg-id="DRAGON BALL Z",DRAGON BALL Z
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/1444
 
-#EXTINF:-1 tvg-id="Cinema31",Cinema31
-http://279071586221810692.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810692.ts
+#EXTINF:-1 tvg-id="DRAGON BALL GT",DRAGON BALL GT
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/1443
 
-#EXTINF:-1 tvg-id="Cinema33",Cinema33
-http://279071586221810693.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/810693.ts
+#EXTINF:-1 tvg-id="DRAGON BALL SUPER",DRAGON BALL SUPER
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/1442
 
-#EXTINF:-1 tvg-id="5TAR2",5TAR2
-http://mohdtv.com:8880/voay4085/d1z3756d/58002
+#EXTINF:-1, "GRAVITY FALLS",GRAVITY FALLS
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/1475
 
-#EXTINF:-1 tvg-id="5TAR3",5TAR3
-http://mohdtv.com:8880/voay4085/d1z3756d/49681
+#EXTINF:-1 tvg-id="Los supersónicos",Los supersónicos
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/221337
 
-#EXTINF:-1 tvg-id="Win Sport +",Win Sport+
-http://279071586221828605.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/828605.ts
-
-#EXTINF:-1 tvg-id="Win Sport",Win Sport
-http://279071586221828606.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/828606.ts
 
 "Peliculas"
 
-#EXTINF:-1 tvg-id="Alicia en el pais de las maravillas",Alicia en el pais de las maravillas
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34117.mp4
-
-#EXTINF:-1 tvg-id="Alicia atravez del espejo",Alicia atravez del espejo
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34116.mp4
-
-#EXTINF:-1 tvg-id="Dia de la independencia",Dia de la independencia
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34539.mkv
-
-#EXTINF:-1 tvg-id="Dia de la independencia Contra ataque",Dia de la independencia Contra ataque
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34540.mp4
-
-#EXTINF:-1 tvg-id="Dracula",Dracula
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34606.mkv
-
-#EXTINF:-1 tvg-id="El Hobbit un viaje inesperado",El Hobbit un viaje inesperado
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34772.mp4
-
-#EXTINF:-1 tvg-id="El Hobbit la batalla de los 5 ejercitos",El Hobbit la batalla de los 5 ejercitos
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34771.mp4
-
-#EXTINF:-1 tvg-id="El Hobbit La desolasion de smaug",El Hobbit La desolasion de smaug
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/34776.mp4
-
-#EXTINF:-1 tvg-id="Escuadron suicida",Escuadron suicida
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/35025.mkv
-
-#EXTINF:-1 tvg-id="Escuadron suicida 4k",Escuadron suicida 4k
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/35024.mkv
-
-#EXTINF:-1 tvg-id="Mad max furia en la carretera",Mad max furia en la carretera
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/35995.mkv
-
-#EXTINF:-1 tvg-id="Regreso al futuro 1",Regreso al futuro 1
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/36581.mp4
-
-#EXTINF:-1 tvg-id="Regreso al futuro 2",Regreso al futuro 2
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/36579.mp4
-
-#EXTINF:-1 tvg-id="Regreso al futuro 3",Regreso al futuro 3
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/36580.mp4
 
 #EXTINF:-1 tvg-id="Han solo",Han solo
 http://mohdtv.com:8880/movie/voay4085/d1z3756d/35227.mkv
