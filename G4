@@ -153,6 +153,12 @@ http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/443
 #EXTINF:-1 tvg-id="CINEMA 6",CINEMA 6
 http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/444
 
+#EXTINF:-1 tvg-id="GOLDEN EDGE",GOLDEN EDGE
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/36
+
+
+
+
 
 24/7
 
@@ -175,15 +181,158 @@ http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/1475
 #EXTINF:-1 tvg-id="Los supersónicos",Los supersónicos
 http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/221337
 
+#EXTINF:-1 tvg-id="PANTERA ROSA",PANTERA ROSA
+http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/78781
+
+
 
 "Peliculas"
 
+#EXTINF:-1 tvg-id="Alicia en el País de las Maravillas ",Alicia en el País de las Maravillas 
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171294.mp4
 
-#EXTINF:-1 tvg-id="Han solo",Han solo
-http://mohdtv.com:8880/movie/voay4085/d1z3756d/35227.mkv
+#EXTINF:-1 tvg-id="ALITA Battle Angel: La última guerrera (2019)",ALITA Battle Angel: La última guerrera (2019)
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171297.mp4
+
+#EXTINF:-1 tvg-id="Animales Fantasticos y donde encontrarlos",Animales Fantasticos y donde encontrarlos
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171300.mp4
+
+#EXTINF:-1 tvg-id="Animales Fantasticos los crimenes de grindelwald",Animales Fantasticos los crimenes de grindelwald
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171301.mp4
+
+#EXTINF:-1 tvg-id="Avatar",Avatar
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171308.mp4
+
+#EXTINF:-1 tvg-id="Regreso al futuro 1",Regreso al futuro 1
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171310.mp4
+
+#EXTINF:-1 tvg-id="Regreso al futuro 2",Regreso al futuro 2
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171311.mp4
+
+#EXTINF:-1 tvg-id="Regreso al futuro 3",Regreso al futuro 3
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171312.mp4
+
+#EXTINF:-1 tvg-id="Furia de TITANES",Furia de TITANES
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171328.mp4
+
+#EXTINF:-1 tvg-id="El Rey escorpion ",El Rey escorpion
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171377.mkv
+
+#EXTINF:-1 tvg-id="El rey Escorpión 2: El nacimiento del guerrero",El rey Escorpión 2: El nacimiento del guerrero
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171373.mkv
+
+#EXTINF:-1 tvg-id="El rey Escorpión 3: Batalla por la redención",El rey Escorpión 3: Batalla por la redención
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171374.mkv
+
+#EXTINF:-1 tvg-id="El Rey Escorpión 4: La búsqueda del poder",El Rey Escorpión 4: La búsqueda del poder
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171375.mkv
+#EXTINF:-1 tvg-id="El Rey escorpion",El Rey escorpion
+
+#EXTINF:-1 tvg-id="El rey escorpión: el libro de las almas",El rey escorpión: el libro de las almas
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171376.mkv
+
+#EXTINF:-1 tvg-id="XMEN 1clase",XMEN 1clase
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171338.mkv
+
+#EXTINF:-1 tvg-id="El hobbit: Un viaje inesperado ",El hobbit: Un viaje inesperado 
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171367.mp4
+
+#EXTINF:-1 tvg-id="El hobbit: La desolación de Smaug",El hobbit: La desolación de Smaug
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171366.mp4
+
+#EXTINF:-1 tvg-id="El hobbit: La batalla de los cinco ejércitos",El hobbit: La batalla de los cinco ejércitos
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171365.mp4
+
+#EXTINF:-1 tvg-id="El señor de los anillos: La comunidad del anillo",El señor de los anillos: La comunidad del anillo
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171381.mp4
+
+#EXTINF:-1 tvg-id="El señor de los anillos: Las dos torres",El señor de los anillos: Las dos torres
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171382.mp4
+
+#EXTINF:-1 tvg-id="El señor de los anillos: El retorno del rey",El señor de los anillos: El retorno del rey
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171380.mp4
+
+#EXTINF:-1 tvg-id="Ghost.Rider",Ghost.Rider
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171400.mp4
+
+#EXTINF:-1 tvg-id="Ghost.Rider 2",Ghost.Rider 2
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171399.mp4
+
+#EXTINF:-1 tvg-id="Hansel.and.Gretel.Witch.Hunters",Hansel.and.Gretel.Witch.Hunters
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171416.mp4
+
+#EXTINF:-1 tvg-id="Hellboy",Hellboy
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171418.mp4
+
+#EXTINF:-1 tvg-id="Dia de la independencia",Dia de la independencia
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171430.mkv
+
+#EXTINF:-1 tvg-id="Dia de la independencia 2",Dia de la independencia 2
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171431.mkv
+
+#EXTINF:-1 tvg-id="Indiana Jones 3: La última cruzada",Indiana Jones 3: La última cruzada
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171433.mp4
+
+#EXTINF:-1 tvg-id="Indiana Jones en el templo de la perdidicion",Indiana Jones en el templo de la perdidicion
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171434.mp4
+
+#EXTINF:-1 tvg-id="Jack caza gigantes",Jack caza gigantes
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171440.mp4
+
+#EXTINF:-1 tvg-id="John Carter",John Carter
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171443.mp4
+
+#EXTINF:-1 tvg-id="La gran muralla",La gran muralla
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171460.mp4
+
+#EXTINF:-1 tvg-id="Mad Max Furia en el camino",Mad Max Furia en el camino
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171480.mkv
+
+#EXTINF:-1 tvg-id="Principe de persia las arenas del tiempo",Principe de persia las arenas del tiempo
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171515.mp4
 
 #EXTINF:-1 tvg-id="Jurasic park 1",Jurasic park 1
 http://mohdtv.com:8880/movie/ALLChannels48062c020013/50254498/35469.mp4
 
 #EXTINF:-1 tvg-id="Jurasic park 2",Jurasic park 2
 http://mohdtv.com:8880/movie/ALLChannels48062c020013/50254498/35470.mp4
+
+#EXTINF:-1 tvg-id="Jurasic park 3",Jurasic park 3
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171450.mp4
+
+#EXTINF:-1 tvg-id="Jurassic World ",Jurassic World 
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171451.mp4
+
+#EXTINF:-1 tvg-id="Jurassic.world reino caido.",Jurassic.world.reino caido
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171452.mp4
+
+#EXTINF:-1 tvg-id="TRON: Legacy",TRON: Legacy
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171585.mp4
+
+#EXTINF:-1 tvg-id="Viaje al centro de la Tierra 2: La isla misteriosa",Viaje al centro de la Tierra 2: La isla misteriosa
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171595.mkv
+
+#EXTINF:-1 tvg-id="Piratas del Caribe: La maldición de la Perla Negra",Piratas del Caribe: La maldición de la Perla Negra
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/172164.mkv
+
+#EXTINF:-1 tvg-id="Piratas del Caribe: El cofre del hombre muerto ",Piratas del Caribe: El cofre del hombre muerto 
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/172162.mkv
+
+#EXTINF:-1 tvg-id="Piratas del Caribe: En el fin del mundo ",Piratas del Caribe: En el fin del mundo 
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/172163.mkv
+
+#EXTINF:-1 tvg-id="Piratas del Caribe: En mareas misteriosas",Piratas del Caribe: En mareas misteriosas
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/172166.mkv
+
+#EXTINF:-1 tvg-id="Piratas del Caribe: La venganza de Salazar",Piratas del Caribe: La venganza de Salazar
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/172165.mkv
+
+#EXTINF:-1 tvg-id="Yo, robot",Yo, robot
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/188965.mp4
+
+#EXTINF:-1 tvg-id="El demoledor",El demoledor
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/193236.mp4
+
+#EXTINF:-1 tvg-id="Sleepy Hollow : La leyenda del jinete sin cabeza",Sleepy Hollow : La leyenda del jinete sin cabeza
+http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/173022.mp4
+
