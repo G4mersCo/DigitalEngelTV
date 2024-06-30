@@ -38,6 +38,9 @@ http://279071586221743915.tkop413.xyz:80/play/vi210038/xdc9pJgWXt/743915.ts
 #EXTINF:-1, CARACOL HQ 12
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22428.m3u8
 
+#EXTINF:-1, CARACOL 13
+http://fabul.xyz:8080/171664575418852012/191664575418852/18402
+
 #EXTINF:-1 tvg-id="Locomotion TV",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -89,6 +92,10 @@ http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/101
 #EXTINF:-1 tvg-id="AMC",AMC
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22153.m3u8
 
+
+#EXTINF:-1 tvg-id="AMC SD",AMC SD
+http://17379490286321104.ofd0628.xyz:80/live/gusibanimanol/3oskarbinuevoagust/321104.ts
+
 #EXTINF:-1 tvg-id="AXN",AXN
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22155.m3u8
 
@@ -112,6 +119,9 @@ http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22215.m3u8
 
 #EXTINF:-1 tvg-id="FX",FX
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22190.m3u8
+
+#EXTINF:-1 tvg-id="FX2",FX2
+http://fabul.xyz:8080/171664575418852012/191664575418852/18509
 
 #EXTINF:-1 tvg-id="STAR CHANNEL",STAR CHANNEL
 http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/338
@@ -137,8 +147,14 @@ http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/92725.m3u8
 #EXTINF:-1 tvg-id="Space",Space
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22217.m3u8
 
+#EXTINF:-1 tvg-id="Space",Space MX
+http://fabul.xyz:8080/171664575418852012/191664575418852/52570
+
 #EXTINF:-1 tvg-id="Star",Star
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22182.m3u8
+
+#EXTINF:-1 tvg-id="Star mx",Star mx
+http://fabul.xyz:8080/171664575418852012/191664575418852/52530
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL",UNIVERSAL CHANNEL
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22241.m3u8
@@ -146,11 +162,20 @@ http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22241.m3u8
 #EXTINF:-1 tvg-id="Sony 2",TNT SD
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22230.m3u8
 
+#EXTINF:-1 tvg-id="Sony MX",TNT MX
+http://fabul.xyz:8080/941679070740672073/1811679070740672/52585
+
 #EXTINF:-1 tvg-id="UNIVERSAL premier",UNIVERSAL Premier
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22241.m3u8
 
 #EXTINF:-1 tvg-id="WARNER (N",WARNER (N
 http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22242.m3u8
+
+#EXTINF:-1 tvg-id="WARNER ",WARNER 
+http://fabul.xyz:8080/171664575418852012/191664575418852/52598
+
+#EXTINF:-1 tvg-id="WARNER MX",WARNER MX
+http://fabul.xyz:8080/941679070740672073/1811679070740672/52598
 
 #EXTINF:-1 tvg-id="CINEMA 2",CINEMA 2
 http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/440
