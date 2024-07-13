@@ -82,187 +82,111 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 #EXTINF:-1 tvg-id="Cinerama",Cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Win sport +",Win sport +
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/34695.m3u8
-
-
-#EXTINF:-1 tvg-id="CINE HD││SONY CINE",CINE HD││SONY CINE
-http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/101
-
-#EXTINF:-1 tvg-id="AMC",AMC
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22153.m3u8
-
+#EXTINF:-1 tvg-id="A&E",A&E
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26749
 
 #EXTINF:-1 tvg-id="AMC SD",AMC SD
-http://17379490286321104.ofd0628.xyz:80/live/gusibanimanol/3oskarbinuevoagust/321104.ts
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26931
 
 #EXTINF:-1 tvg-id="AXN",AXN
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22155.m3u8
-
-#EXTINF:-1 tvg-id="CINE FAMILIAR HD",CINE FAMILIAR HD 
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/92542.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26761
 
 #EXTINF:-1 tvg-id="CINECANAL (N)",CINECANAL (N)
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22160.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26753
 
 #EXTINF:-1 tvg-id=" CINEMAX (N) ", CINEMAX (N)
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22165.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1444
 
-#EXTINF:-1 tvg-id="DREAMWORKS HD",DREAMWORKS HD
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/92487.m3u8
+#EXTINF:-1 tvg-id=" CINEMAX  ", CINEMAX
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1904
 
 #EXTINF:-1 tvg-id="GOLDEN PREMIER",GOLDEN PREMIER
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22200.m3u8
-
-#EXTINF:-1 tvg-id="SONY",SONY
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22215.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1473
 
 #EXTINF:-1 tvg-id="FX",FX
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22190.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26746
 
-#EXTINF:-1 tvg-id="FX2",FX2
-http://fabul.xyz:8080/171664575418852012/191664575418852/18509
+#EXTINF:-1 tvg-id="HBO Plus",HBO Plus
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/2107
 
-#EXTINF:-1 tvg-id="STAR CHANNEL",STAR CHANNEL
-http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/338
-
-#EXTINF:-1 tvg-id="UNIVERSAL CINEMA",UNIVERSAL CINEMA
-http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/340
+#EXTINF:-1 tvg-id="HBO Plus 2",HBO Plus 2
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1434
 
 #EXTINF:-1 tvg-id="HBO",HBO
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/32894.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/141189
 
-#EXTINF:-1 tvg-id="HBO +",HBO +
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22209.m3u8
-
-#EXTINF:-1 tvg-id="HBO2",HBO2
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22207.m3u8
+#EXTINF:-1 tvg-id="HBO 2",HBO 2
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/52876
 
 #EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22208.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1035
+
+#EXTINF:-1 tvg-id="HBO Family tv",HBO Family tv
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1034
 
 #EXTINF:-1 tvg-id="HBO Extreme",HBO Extreme
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/92725.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1482
+
+#EXTINF:-1 tvg-id="paramount",Paramount
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1485
+
+#EXTINF:-1 tvg-id="Sony MX",Sony
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1922
+
+#EXTINF:-1 tvg-id="SONY CINE",SONY CINE
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1929
 
 #EXTINF:-1 tvg-id="Space",Space
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22217.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26904
 
 #EXTINF:-1 tvg-id="Space",Space MX
-http://fabul.xyz:8080/171664575418852012/191664575418852/52570
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26904
 
 #EXTINF:-1 tvg-id="Star",Star
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22182.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/398097
 
 #EXTINF:-1 tvg-id="Star mx",Star mx
-http://fabul.xyz:8080/171664575418852012/191664575418852/52530
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26758
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL",UNIVERSAL CHANNEL
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22241.m3u8
-
-#EXTINF:-1 tvg-id="Sony 2",TNT SD
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22230.m3u8
-
-#EXTINF:-1 tvg-id="Sony MX",TNT MX
-http://fabul.xyz:8080/941679070740672073/1811679070740672/52585
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1925
 
 #EXTINF:-1 tvg-id="UNIVERSAL premier",UNIVERSAL Premier
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22241.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26905
+
+#EXTINF:-1 tvg-id="UNIVERSAL C",UNIVERSAL C
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1923
+
+#EXTINF:-1 tvg-id="TNT",TNT
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26763
+
+#EXTINF:-1 tvg-id="TNT cine",TNT cine
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1503
 
 #EXTINF:-1 tvg-id="WARNER (N",WARNER (N
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22242.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1516
 
 #EXTINF:-1 tvg-id="WARNER ",WARNER 
-http://fabul.xyz:8080/171664575418852012/191664575418852/52598
-
-#EXTINF:-1 tvg-id="WARNER MX",WARNER MX
-http://fabul.xyz:8080/941679070740672073/1811679070740672/52598
-
-#EXTINF:-1 tvg-id="CINEMA 2",CINEMA 2
-http://gustvplay.com:8080/pT7KMZ27k8nQ/RrMwpLpQnJnQ/440
-
-#EXTINF:-1 tvg-id="History",History
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22278.m3u8
-
-#EXTINF:-1 tvg-id="Artes marciales",Artes marciales
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/68300.m3u8
-
-#EXTINF:-1 tvg-id="Cinema accion clasica",Cinema accion clasica
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/64893.m3u8
-
-#EXTINF:-1 tvg-id="HARRY_POTTER",HARRY_POTTER
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/56291.m3u8
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/119338
 
 24/7
+#EXTINF:-1, "Caballeros del zodiaco",Caballeros del zodiaco
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/37815
 
-#EXTINF:-1, "GRAVITY FALLS",GRAVITY FALLS
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/70763.m3u8
+#EXTINF:-1, "Happy Tree Friends",Happy Tree Friends
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/37866
 
-#EXTINF:-1 tvg-id="PANTERA ROSA",PANTERA ROSA
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/34977.m3u8
+#EXTINF:-1 tvg-id="Kung fu",Kung Fu
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/54827
 
-#EXTINF:-1 tvg-id="Tortugas ninja",ortugas ninja
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/65934.m3u8
+#EXTINF:-1 tvg-id="Star Wars",Star Wars
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/37930
 
-#EXTINF:-1 tvg-id="Spiderman",Spiderman
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/34980.m3u8
-
-#EXTINF:-1 tvg-id="Los 3 chiflados",Los 3 chiflados
-http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/34984.m3u8
+#EXTINF:-1 tvg-id="WIN SPORTS +",WIN SPORTS +
+http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/23130
 
 "Peliculas"
 
-#EXTINF:-1 tvg-id="Alicia en el País de las Maravillas ",Alicia en el País de las Maravillas 
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/36974.mp4
-
-#EXTINF:-1 tvg-id="ALITA Battle Angel: La última guerrera (2019)",ALITA Battle Angel: La última guerrera (2019)
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/20659.mp4
-
-#EXTINF:-1 tvg-id="Animales Fantasticos y donde encontrarlos",Animales Fantasticos y donde encontrarlos
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/4922.mp4
-
-#EXTINF:-1 tvg-id="Animales Fantasticos los crimenes de grindelwald",Animales Fantasticos los crimenes de grindelwald
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/10089.mp4
-
-#EXTINF:-1 tvg-id="Avatar",Avatar
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/84766.mp4
-
-#EXTINF:-1 tvg-id="Regreso al futuro 1",Regreso al futuro 1
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/1246.mp4
-
-#EXTINF:-1 tvg-id="Regreso al futuro 2",Regreso al futuro 2
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/1247.mp4
-
-#EXTINF:-1 tvg-id="Regreso al futuro 3",Regreso al futuro 3
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/1248.mp4
-
-#EXTINF:-1 tvg-id="El hobbit: Un viaje inesperado ",El hobbit: Un viaje inesperado 
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/10462.mp4
-
-#EXTINF:-1 tvg-id="El señor de los anillos: La comunidad del anillo",El señor de los anillos: La comunidad del anillo
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/36741.mp4
-
-#EXTINF:-1 tvg-id="El señor de los anillos: Las dos torres",El señor de los anillos: Las dos torres
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/36740.mp4
-
-#EXTINF:-1 tvg-id="El señor de los anillos 3 El retorno del Rey",El señor de los anillos 3 El retorno del Rey
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/36739.mp4
-
-#EXTINF:-1 tvg-id="Hansel.and.Gretel.Witch.Hunters",Hansel.and.Gretel.Witch.Hunters
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/4630.mp4
-
-#EXTINF:-1 tvg-id="Dia de la independencia",Dia de la independencia
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/10331.mp4
-
-#EXTINF:-1 tvg-id="Día de la independencia Contraataque",Día de la independencia Contraataque
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/23269.mp4
-
-#EXTINF:-1 tvg-id="Indiana Jones 3: La última cruzada",Indiana Jones 3: La última cruzada
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/37394.mp4
-
-#EXTINF:-1 tvg-id="Indiana Jones cazadores del arca perdida",Indiana Jones cazadores del arca perdida
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/37392.mp4
-#EXTINF:-1 tvg-id="John Carter",John Carter
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/21494.mp4
 
 #EXTINF:-1 tvg-id="La gran muralla",La gran muralla
 http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/5525.mp4
@@ -276,34 +200,6 @@ http://mohdtv.com:8880/movie/ALLChannels48062c020013/50254498/35470.mp4
 #EXTINF:-1 tvg-id="Jurasic park 3",Jurasic park 3
 http://gustvplay.com:8080/movie/pT7KMZ27k8nQ/RrMwpLpQnJnQ/171450.mp4
 
-#EXTINF:-1 tvg-id="Jurassic World ",Jurassic World 
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/5425.mp4
 
-#EXTINF:-1 tvg-id="Jurassic.world reino caido.",Jurassic.world.reino caido
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/8996.mp4
 
-#EXTINF:-1 tvg-id="Jurassic.World.Dominion",Jurassic.World.Dominion
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/91656.mp4
 
-#EXTINF:-1 tvg-id="Viaje al centro de la Tierra 2: La isla misteriosa",Viaje al centro de la Tierra 2: La isla misteriosa
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/91474.mp4
-
-#EXTINF:-1 tvg-id="Piratas del Caribe: La maldición de la Perla Negra",Piratas del Caribe: La maldición de la Perla Negra
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/36738.mp4
-
-#EXTINF:-1 tvg-id="Piratas del Caribe: El cofre del hombre muerto ",Piratas del Caribe: El cofre del hombre muerto 
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/5770.mp4
-
-#EXTINF:-1 tvg-id="Piratas del Caribe: En el fin del mundo ",Piratas del Caribe: En el fin del mundo 
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/5771.mp4
-
-#EXTINF:-1 tvg-id="Piratas del Caribe: En mareas misteriosas",Piratas del Caribe: En mareas misteriosas
-
-#EXTINF:-1 tvg-id="Piratas del Caribe: La venganza de Salazar",Piratas del Caribe: La venganza de Salazar
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/6544.mp4
-
-#EXTINF:-1 tvg-id="El demoledor",El demoledor
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/61883.mp4
-
-#EXTINF:-1 tvg-id="Sleepy Hollow : La leyenda del jinete sin cabeza",Sleepy Hollow : La leyenda del jinete sin cabeza
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/62352.mp4
