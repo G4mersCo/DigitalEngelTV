@@ -41,11 +41,21 @@ http://tv.soccerplus.link:8000/live/javierb83/maracaibo1/22428.m3u8
 #EXTINF:-1, CARACOL 13
 http://fabul.xyz:8080/171664575418852012/191664575418852/18402
 
+#EXTINF:-1, CAble Noticias
+http://25536702434868176.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/868176.ts
+
+#EXTINF:-1 Señal Colombia
+http://25536702434876746.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/876746.ts
+
+#EXTINF:-1, SEÑAL COLOMBIA
+http://25536702434876747.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/876747.ts
+
 #EXTINF:-1 tvg-id="Locomotion TV",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1, CANAL UNO
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
 #EXTINF:-1, RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
