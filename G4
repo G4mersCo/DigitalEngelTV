@@ -93,28 +93,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A&E",A&E
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26749
+http://25536702434881766.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881766.ts
 
 #EXTINF:-1 tvg-id="AMC SD",AMC SD
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26931
+http://25536702434890197.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/890197.ts
 
 #EXTINF:-1 tvg-id="AXN",AXN
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26761
+http://25536702434881773.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881773.ts
 
 #EXTINF:-1 tvg-id="CINECANAL (N)",CINECANAL (N)
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26753
+http://25536702434890204.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/890204.ts
 
 #EXTINF:-1 tvg-id=" CINEMAX (N) ", CINEMAX (N)
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1444
+http://25536702434881788.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881788.ts
 
 #EXTINF:-1 tvg-id=" CINEMAX  ", CINEMAX
 http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1904
 
 #EXTINF:-1 tvg-id="GOLDEN PREMIER",GOLDEN PREMIER
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1473
+http://25536702434886728.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/886728.ts
 
 #EXTINF:-1 tvg-id="FX",FX
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26746
+http://25536702434886726.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/886726.ts
 
 #EXTINF:-1 tvg-id="HBO Plus",HBO Plus
 http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/2107
@@ -123,61 +123,64 @@ http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/2107
 http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1434
 
 #EXTINF:-1 tvg-id="HBO",HBO
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/141189
+http://25536702434776694.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776694.ts
 
 #EXTINF:-1 tvg-id="HBO 2",HBO 2
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/52876
+http://25536702434776689.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776689.ts
 
 #EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1035
+http://25536702434776690.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776690.ts
 
 #EXTINF:-1 tvg-id="HBO Family tv",HBO Family tv
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1034
+http://25536702434776697.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776697.ts
 
 #EXTINF:-1 tvg-id="HBO Extreme",HBO Extreme
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1482
+http://25536702434776699.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776699.ts
 
 #EXTINF:-1 tvg-id="paramount",Paramount
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1485
+http://25536702434881842.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881842.ts
 
 #EXTINF:-1 tvg-id="Sony MX",Sony
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1922
+http://25536702434890213.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/890213.ts
 
 #EXTINF:-1 tvg-id="SONY CINE",SONY CINE
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1929
+http://25536702434776736.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776736.ts
+
+#EXTINF:-1 tvg-id="SONY 2",SONY 2
+http://25536702434776735.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776735.ts
 
 #EXTINF:-1 tvg-id="Space",Space
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26904
+http://25536702434881845.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881845.ts
 
 #EXTINF:-1 tvg-id="Space",Space MX
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26904
+http://25536702434776737.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776737.ts
 
 #EXTINF:-1 tvg-id="Star",Star
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/398097
+http://25536702434887078.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/887078.ts
 
 #EXTINF:-1 tvg-id="Star mx",Star mx
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26758
+http://25536702434888201.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/888201.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL",UNIVERSAL CHANNEL
 http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1925
 
 #EXTINF:-1 tvg-id="UNIVERSAL premier",UNIVERSAL Premier
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26905
+http://25536702434777415.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/777415.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL C",UNIVERSAL C
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1923
+http://25536702434813306.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/813306.ts
 
 #EXTINF:-1 tvg-id="TNT",TNT
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/26763
+http://25536702434855511.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/855511.ts
 
 #EXTINF:-1 tvg-id="TNT cine",TNT cine
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1503
+http://25536702434855509.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/855509.ts
 
 #EXTINF:-1 tvg-id="WARNER (N",WARNER (N
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1516
+http://25536702434866450.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/866450.ts
 
 #EXTINF:-1 tvg-id="WARNER ",WARNER 
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/119338
+http://25536702434889246.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/889246.ts
 
 24/7
 #EXTINF:-1, "Caballeros del zodiaco",Caballeros del zodiaco
