@@ -29,15 +29,17 @@ http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBAb0OSDtg
 #EXTINF:-1, CARACOL TV2 10
 http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBD0Vg-4_3kAp5fd7xz3vdg-
 
-#EXTINF:-1, CARACOL HQ 10
-http://offshore.lat:8080/play/4KPyUrEKJ1LgNmezulYmAk5_M8TDElQZP_pFcGOuMBCQWTBQxwFLy3234zPxOGbn
-
 #EXTINF:-1, CARACOL L
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/8480
+http://812193279336899450.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/899450.ts
+
 #EXTINF:-1, CARACOL M
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/8481
+http://812193279336888872.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/888872.ts
+
 #EXTINF:-1, CARACOL 1080
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/8483
+http://812193279336891209.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/891209.ts
+
+#EXTINF:-1, CARACOL Hd2
+http://812193279336899451.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/899451.ts
 
 #EXTINF:-1, CAble Noticias
 http://25536702434868176.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/868176.ts
@@ -91,94 +93,84 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A&E",A&E
-http://25536702434881766.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881766.ts
+http://812193279336897418.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/897418.ts
 
 #EXTINF:-1 tvg-id="AMC SD",AMC SD
-http://25536702434890197.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/890197.ts
+http://812193279336897420.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/897420.ts
 
 #EXTINF:-1 tvg-id="AXN",AXN
-http://25536702434881773.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881773.ts
+http://812193279336897422.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/897422.ts
 
 #EXTINF:-1 tvg-id="CINECANAL (N)",CINECANAL (N)
-http://25536702434890204.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/890204.ts
+http://812193279336891211.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/891211.ts
 
 #EXTINF:-1 tvg-id=" CINEMAX (N) ", CINEMAX (N)
-http://25536702434881788.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881788.ts
+http://812193279336894729.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/894729.ts
 
 #EXTINF:-1 tvg-id=" CINEMAX  ", CINEMAX
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1904
+http://812193279336903896.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/903896.ts
 
 #EXTINF:-1 tvg-id="GOLDEN PREMIER",GOLDEN PREMIER
-http://25536702434886728.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/886728.ts
+http://812193279336900067.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/900067.ts
 
 #EXTINF:-1 tvg-id="FX",FX
-http://25536702434886726.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/886726.ts
 
 #EXTINF:-1 tvg-id="HBO Plus",HBO Plus
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/2107
+http://812193279336901918.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/901918.ts
 
 #EXTINF:-1 tvg-id="HBO Plus 2",HBO Plus 2
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1434
+http://812193279336901921.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/901921.ts
 
 #EXTINF:-1 tvg-id="HBO",HBO
-http://25536702434776694.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776694.ts
 
 #EXTINF:-1 tvg-id="HBO 2",HBO 2
-http://25536702434776689.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776689.ts
 
 #EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://25536702434776690.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776690.ts
 
 #EXTINF:-1 tvg-id="HBO Family tv",HBO Family tv
-http://25536702434776697.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776697.ts
 
 #EXTINF:-1 tvg-id="HBO Extreme",HBO Extreme
-http://25536702434776699.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776699.ts
+http://812193279336776698.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/776698.ts
 
 #EXTINF:-1 tvg-id="paramount",Paramount
-http://25536702434881842.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881842.ts
 
 #EXTINF:-1 tvg-id="Sony MX",Sony
-http://25536702434890213.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/890213.ts
+http://812193279336896679.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/896679.ts
 
 #EXTINF:-1 tvg-id="SONY CINE",SONY CINE
-http://25536702434776736.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776736.ts
 
 #EXTINF:-1 tvg-id="SONY 2",SONY 2
-http://25536702434776735.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776735.ts
 
 #EXTINF:-1 tvg-id="Space",Space
-http://25536702434881845.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/881845.ts
+http://812193279336776737.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/776737.ts
 
 #EXTINF:-1 tvg-id="Space",Space MX
-http://25536702434776737.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/776737.ts
+http://812193279336896680.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/896680.ts
 
 #EXTINF:-1 tvg-id="Star",Star
-http://25536702434887078.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/887078.ts
+http://812193279336776739.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/776739.ts
 
 #EXTINF:-1 tvg-id="Star mx",Star mx
-http://25536702434888201.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/888201.ts
+http://812193279336896681.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/896681.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL",UNIVERSAL CHANNEL
-http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/1925
+http://812193279336877522.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/877522.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL premier",UNIVERSAL Premier
-http://25536702434777415.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/777415.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL C",UNIVERSAL C
-http://25536702434813306.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/813306.ts
 
 #EXTINF:-1 tvg-id="TNT",TNT
 http://25536702434855511.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/855511.ts
 
 #EXTINF:-1 tvg-id="TNT cine",TNT cine
-http://25536702434855509.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/855509.ts
+http://812193279336904120.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/904120.ts
 
 #EXTINF:-1 tvg-id="WARNER (N",WARNER (N
-http://25536702434866450.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/866450.ts
+http://812193279336903911.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/903911.ts
 
 #EXTINF:-1 tvg-id="WARNER ",WARNER 
-http://25536702434889246.ofd0718.xyz:80/play/hu18550/tGej8gdw7Qr/889246.ts
+http://812193279336776766.ofre802.xyz:80/play/XMKUPXYK2C/N89HUKYgHE/776766.ts
 
 24/7
 #EXTINF:-1, "Caballeros del zodiaco",Caballeros del zodiaco
@@ -199,8 +191,7 @@ http://tv.proyectox.vip:8080/Vikin34343DDFSSafghkqQDD/WGQhe57Fkh/23130
 "Peliculas"
 
 
-#EXTINF:-1 tvg-id="La gran muralla",La gran muralla
-http://tv.soccerplus.link:8000/movie/javierb83/maracaibo1/5525.mp4
+#EXTINF:-1 tvg-id="
 
 #EXTINF:-1 tvg-id="Jurasic park 1",Jurasic park 1
 http://mohdtv.com:8880/movie/ALLChannels48062c020013/50254498/35469.mp4
